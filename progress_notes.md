@@ -28,3 +28,16 @@ Here is a template for tracking your notes on progress.
 ### Description of work:
 - Had a meeting to begin reviewing the five ADNI datasets in R
 - Discussed examining each dataset’s columns and using the ADNI website to better understand data
+
+## 04/28/2026
+
+### Files worked with:
+- DXSUM
+- ADAS
+- CDR
+- MOCA
+- MMSE
+
+### Description of work:
+- Recorded NA values for each file
+- Created bar charts/histograms for diagnosis in dxsum, totscore and total13 in adas, cdglobal and cdrsb in cdr, and moca scores in moca, and mmscore in mmse
