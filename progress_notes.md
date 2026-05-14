@@ -41,3 +41,20 @@ Here is a template for tracking your notes on progress.
 ### Description of work:
 - Recorded NA values for each file
 - Created bar charts/histograms for diagnosis in dxsum, totscore and total13 in adas, cdglobal and cdrsb in cdr, and moca scores in moca, and mmscore in mmse
+
+## 05/13/2026
+
+### Files worked with:
+- DXSUM
+- CDR
+
+### Description of work:
+- Merged DXSUM and CDR using PTID
+- Evaluated consistency between DIAGNOSIS column in df_dxsum and CDGLOBAL in df_cdr
+- Created table and recorded it in google slides
+
+
+
+
+
+
