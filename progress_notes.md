@@ -53,6 +53,17 @@ Here is a template for tracking your notes on progress.
 - Evaluated consistency between DIAGNOSIS column in df_dxsum and CDGLOBAL in df_cdr
 - Created table and recorded it in google slides
 
+## 06/20/2026
+
+### Files worked with:
+- DXSUM
+- CDR
+
+### Description of work:
+- Created plots to show overlap in scores between each diagnostic group
+- Identified subjects with both screen and baseline
+- Calculated days between the screen and baseline if a single subject had both
+
 
 
 
